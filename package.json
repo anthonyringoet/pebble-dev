@@ -6,6 +6,7 @@
   "private": true,
   "dependencies": {},
   "pebble": {
+    "capabilities": ["location"],
     "displayName": "beepboop",
     "uuid": "ea7fe5a6-234e-440d-b397-e58f70252bc1",
     "projectType": "rocky",
